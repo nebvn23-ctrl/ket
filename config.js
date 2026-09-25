@@ -5,6 +5,6 @@
    Leave '' empty to show "soon" / "coming soon".
    ===================================================== */
 window.KET_CONFIG = {
-  X_URL: '',
-  CA: ''
+  X_URL: 'https://x.com/ketinworldoftek',
+  CA: 'AkTAtjusyDakvaJxUG65Pc98kddUsDTiuX7DMQJxpump'
 };
